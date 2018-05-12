@@ -46,9 +46,6 @@ class App extends Component {
   }
 
   changeStatus(val, e) {
-    console.log(e);
-    console.log(val);
-
     this.setState({
       ToDos: this.state.ToDos.map(item => {
         if (item.name == val) {
