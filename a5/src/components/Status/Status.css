@@ -1,0 +1,7 @@
+.Status {
+  display: flex;
+}
+
+.Status > * {
+  margin-right: 1em;
+}

@@ -1,0 +1,7 @@
+.Input {
+  display: flex;
+}
+
+.Input > * {
+  margin-right: 1em;
+}

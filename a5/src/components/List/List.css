@@ -1,0 +1,7 @@
+.List li > * {
+  margin-left: 1em;
+}
+.List li {
+  display: flex;
+  align-items: center;
+}
